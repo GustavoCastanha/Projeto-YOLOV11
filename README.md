@@ -20,7 +20,7 @@ O foco é uso **industrial/profissional**, com estrutura organizada para facilit
 ## 🗂️ Estrutura do Projeto
 
 ```
-ia_materias/
+ProjetoIA/
 ├── dataset/
 │   ├── images/
 │   │   ├── train/
