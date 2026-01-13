@@ -1,6 +1,6 @@
-# Projeto-YOLOV11
+# Projeto-YOLOV11 Python 3.14
 
-# IA para Classificação de Materiais
+# IA para Classificação de Materiais 
 
 Este projeto utiliza **Inteligência Artificial com YOLO (Ultralytics)** para **detectar e classificar matérias/produtos** a partir de imagens ou vídeo em tempo real, usando câmera USB ou IP (RTSP).
 
